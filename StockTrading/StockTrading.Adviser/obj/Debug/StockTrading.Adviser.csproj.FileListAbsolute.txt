@@ -1,0 +1,17 @@
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\bin\Debug\StockTrading.Adviser.exe.config
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\bin\Debug\StockTrading.Adviser.exe
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\bin\Debug\StockTrading.Adviser.pdb
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.csprojResolveAssemblyReference.cache
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\Login.g.cs
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\MainWindow.g.cs
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\App.g.cs
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser_MarkupCompile.cache
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser_MarkupCompile.lref
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\Login.baml
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\MainWindow.baml
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.g.resources
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.Properties.Resources.resources
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.csproj.GenerateResource.Cache
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.exe
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\StockTrading.Adviser.pdb
+c:\users\dhawal.dhingra\documents\visual studio 2015\Projects\StockTrading\StockTrading.Adviser\obj\Debug\App.baml
